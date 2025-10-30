@@ -36,7 +36,7 @@ export default function RequestRepairPage() {
   ];
 
   return (
-    <div className="min-h-screen bg-gradient-to-b from-background to-muted/30">
+    <div className="min-h-screen bg-gradient-to-b from-background to-muted/0">
       {/* Hero Section */}
       <section className="py-20 bg-gradient-to-br from-primary to-primary-dark text-white">
         <div className="container mx-auto px-4">

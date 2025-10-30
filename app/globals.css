@@ -78,7 +78,7 @@
   --font-sans: "Inter", "Inter Fallback", system-ui, -apple-system, sans-serif;
   --font-heading: "Poppins", "Poppins Fallback", system-ui, -apple-system, sans-serif;
 
-  /* Color System - Professional appliance repair brand */
+  
   --color-primary: #2563eb; /* Trust blue */
   --color-primary-dark: #1e40af;
   --color-accent: #f59e0b; /* Service orange */
@@ -129,7 +129,7 @@
   --color-sidebar-border: var(--sidebar-border);
   --color-sidebar-ring: var(--sidebar-ring);
 
-  /* Added custom animation for image slider */
+  
   --animate-slide-slow: slide-slow 20s ease-in-out infinite;
 }
 
@@ -150,7 +150,7 @@
   }
 }
 
-/* Added keyframe animations for image sliders and glassmorphism effects */
+
 @keyframes slide-slow {
   0%,
   100% {
@@ -169,7 +169,7 @@
     animation: slide-slow 20s ease-in-out infinite;
   }
 
-  /* Glassmorphism utility classes */
+ 
   .glass {
     background: rgba(255, 255, 255, 0.1);
     backdrop-filter: blur(10px);

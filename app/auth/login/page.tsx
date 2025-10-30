@@ -47,7 +47,7 @@ export default function LoginPage() {
 
   return (
     <div className="relative flex min-h-screen w-full items-center justify-center p-6 md:p-10">
-      {/* Background Image */}
+      {  }
       <div className="absolute inset-0 z-0">
         <img
           src="/modern-kitchen-with-stainless-steel-appliances-ref.jpg"
@@ -57,13 +57,13 @@ export default function LoginPage() {
         <div className="absolute inset-0 bg-black/40" />
       </div>
 
-      {/* Glassmorphism Card */}
+      {  }
       <div className="relative z-10 w-full max-w-sm">
         <Card className="backdrop-blur-xl bg-white/90 dark:bg-gray-900/90 border-white/20 shadow-2xl">
           <CardHeader>
             <CardTitle className="text-2xl">Login</CardTitle>
             <CardDescription>
-              Enter your email below to login to your account
+              Enter your email below to login to your acScount
             </CardDescription>
           </CardHeader>
           <CardContent>
